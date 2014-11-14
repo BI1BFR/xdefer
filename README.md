@@ -1,7 +1,7 @@
 xdefer
 ======
 
-Package xdefer is a RAII utility for golang.
+Package xdefer is a RAII utility for golang. [![GoDoc](https://godoc.org/github.com/huangml/xdefer?status.svg)](https://godoc.org/github.com/huangml/xdefer)
 
 When using keyword defer to do clean-ups, saved statements
 always perform after the surrounding function returns.
