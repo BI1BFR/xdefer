@@ -35,7 +35,7 @@ func DoSomething() {
 ```
 3.execute actions outside the surrounding function.
 ```Go
-func AqurieResource() (xd xdefer.Defer) {
+func AcquireResource() (xd xdefer.Defer) {
         // ... call xd.Defer() to add actions ...
         // actions should be executed by caller
         return
