@@ -36,7 +36,6 @@
 //            // actions should be executed by caller
 //            return
 //    }
-
 package xdefer
 
 // A Defer carries a list of actions need to be executed later.
